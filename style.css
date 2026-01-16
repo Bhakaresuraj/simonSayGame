@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid   black;
+    margin: 10px;
+    border-radius: 10px;
+    /* text-align: center; */
+    align-content: center;
+    }
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box3{
+    background-color: green;
+}
+.box1{
+    background-color: red;
+}.box2{
+    background-color: yellow;
+}.box4{
+    background-color:purple;
+}
+.flash{
+    background-color: white;
+}
